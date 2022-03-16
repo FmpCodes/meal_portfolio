@@ -1,0 +1,131 @@
+{  
+ "main" : {
+    "name":"Akor Sunday",
+    "occupation": "MEAL Officer",
+    "description": "Monitoring, Evaluation, Accountability, and Learning ",
+    "image": "profilepic.jpg",
+    "bio": "A smart and highly dedicated analytical Research Professional with over 5-years experience in Programme Monitoring & Evaluation, focused on deriving meaningful insights from data and using it to help organizations to make powerful decisions so as to improve operations and consumer impact. With a strong academic background, I have a strong ambition to pursue a professional career in developmental and humanitarian services with a long-standing goal of working in Monitoring and Evaluation. I am highly motivated and focused with a strong passion for excellence and I seek to be part of an organization where my skills and competencies can be utilized.",
+    "contactmessage":"Get in touch with me to be part of your team ",
+    "email": "akorsunday070@gmail.com",
+    "phone": "+234-7069226423",
+    "address" :{
+        "street": "No. 19 Chief Palace Guest House,Hospital Road, Karu Site",
+        "city": "Abuja",
+        "state": "FCT",
+        "zip" : "92012"
+    },
+    "resumedownload": "AKOR_SUNDAY_CV_MC.docx",
+    "social":[
+        {
+            "name": "youtube",
+            "url" : "https://www.youtube.com/channel/UCG7Ph5aEsVl10ycYqtUqIcA",
+            "className": "fa fa-youtube"
+        },
+        {
+            "name" : "facebook",
+            "url": "https://web.facebook.com/sunday.akor.73",
+            "className": "fa fa-facebook"
+        },
+        {
+         "name": "linkedin",
+         "url":"https://www.linkedin.com/in/sunday-akor-63703a161",
+         "className": "fa fa-linkedin"   
+        },
+        {
+            "name" : "instagram",
+            "url" : "https://www.instagram.com/fmplove",
+            "className": "fa fa-instagram"
+        },
+        {
+            "name": "github",
+            "url" : "https://github.com/FmpCodes",
+            "className": "fa fa-github"
+        }
+      ]
+ },
+ "resume": {
+    "skillmessage": "My IT Proficiency",
+    "education": [
+      {
+        "school": "Federal University of Technology - Minna, Nigeria",
+        "degree": "Bachelor's Degree, Telecommunication Engineering",
+        "graduated": "October 2016",
+        "description": "Graduated with Second Class Honours(Upper Division)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Non-Profit Organizations",
+        "title": "Social worker",
+        "years": "May 2018 - Present",
+        "description": "Impacting lives and communities and the less priviledge. On the way to change the world positively by building society through Good Leadership."
+      }
+    ],
+    "skills": [
+      {
+        "name": "EXCEL",
+        "level": "100%"
+      },
+      {
+        "name": "POWERBI",
+        "level": "85%"
+      },
+      {
+        "name": "STATA",
+        "level": "70%"
+      },
+      {
+        "name": "KOBOCOLLECT",
+        "level": "88%"
+      },
+      {
+        "name": "EPI-INFO",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Seasonal Malaria Chemoprevention(SMC)",
+        "category": "Malaria Consortium",
+        "image": "malaria_consortium.jpg",
+        "url": "https://www.malariaconsortium.org/pages/preventive_treatments/seasonal-malaria-chemoprevention.htm"
+      },
+      {
+        "title": "Reaching and Empowering Adolescents towards making informed Choices (REACH)",
+        "category": "Community Information and Advocacy Initiative (CIAI)",
+        "image": "savethechildren.jpg",
+        "url": "https://www.savethechildren.ca/reaching-out-to-improve-sexual-and-reproductive-health-and-rights-for-adolescents-in-a-challenging-context/"
+      },
+      {
+        "title": "The Education Partnership Centre",
+        "category": "Final Evaluation of Girls Education Programme 2012-2020 in Northern Nigeria",
+        "image": "Tepcentre.jpg",
+        "url": "https://tepcentre.com/"
+      },
+      {
+        "title": "Community Information and Advocacy Initiative",
+        "category": "Life Skills & Empowerment for Women",
+        "image": "ciai.png",
+        "url": "https://ciai.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Working with Akor has been AWESOME, he makes learning and working on projects so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Moses John Enemona, Malaria Consortium"
+      },
+      {
+        "text": "Akor is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Bala Abdullahi, New Incentives "
+      },
+      {
+        "text": "Akor is team worker and easy to work with, He works hard and smartly too",
+        "user": "Hannah Aaron, Community Information and Advocacy Initiative"
+      }
+    ]
+  }
+}
